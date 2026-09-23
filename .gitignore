@@ -1,0 +1,13 @@
+.vs/
+x64/
+AppLockV2/
+AppLock发布/
+node_modules/
+*.user
+*.suo
+*.log
+*.pdb
+*.ilk
+*.obj
+*.recipe
+config.json.tmp
